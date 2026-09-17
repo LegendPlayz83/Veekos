@@ -28,21 +28,21 @@ Also, I had to put the 3d model for each key manually in the KiCad PCB editor, a
 <img width="481" height="586" alt="Screenshot 2026-09-17 at 8 18 13 PM" src="https://github.com/user-attachments/assets/325a7264-4567-4a9a-83db-ace7aa0de986" />
 
 <h2>BOM</h2>
-| Name                   |   Quantity | Cost             | Link                                                                                                         |
-|:-----------------------|-----------:|:-----------------|:-------------------------------------------------------------------------------------------------------------|
-| XIAO nrf52840 sense    |          1 | $24.05           | https://robu.in/product/seeed-studio-xiao-nrf52840-sense-tinyml-tensorflow-lite-imu-microphone-bluetooth5-0/ |
-| PCB (from JLCPCB)      |          1 | $20.45           | https://jlcpcb.com/                                                                                          |
-| 1N4148 Diodes          |         21 | $2 (Self-funded) | https://amzn.in/d/07wEWb6X                                                                                   |
-| 3.7v LiPo Battery      |          1 | $3.06            | https://amzn.in/d/050THvbC                                                                                   |
-| TP4056 Charger Module  |          1 | $1.20            | https://amzn.in/d/01OvmiZk                                                                                   |
-| DSA Keycaps gradient   |          1 | $6.40            | https://curiositycaps.in/products/21-keys-numpad-thick-pbt-cherry-pbt-keycaps                                |
-| Cherry MX Keys         |         21 | $6.30            | https://stackskb.com/store/click-inc-of-linear-switch-pack-of-10/                                            |
-| Stainless steel screws |          4 | 2 (Self-funded)  | https://stackskb.com/store/m2-screw-8mm-stainless-steel/                                                     |
-| 2u Stablizers          |          3 | $3.45            | https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/                                     |
-| Shipping               |          1 | $2.00            | https://stackskb.com                                                                                         |
-| Total                  |        nan | $66.91           | nan                                                                                                          |
-| Total funding required |        nan | $63.00           | nan                                                                                                          |
 
+| Name | Quantity | Cost | Link |
+| :--- | :---: | :---: | :--- |
+| XIAO nrf52840 sense | 1 | $24.05 | [Robu.in](https://robu.in/product/seeed-studio-xiao-nrf52840-sense-tinyml-tensorflow-lite-imu-microphone-bluetooth5-0/) |
+| PCB (from JLCPCB) | 1 | $20.45 | [JLCPCB](https://jlcpcb.com/) |
+| 1N4148 Diodes | 21 | $2.00 (Self-funded) | [Amazon](https://amzn.in/d/07wEWb6X) |
+| 3.7V LiPo Battery | 1 | $3.06 | [Amazon](https://amzn.in/d/050THvbC) |
+| TP4056 Charger Module | 1 | $1.20 | [Amazon](https://amzn.in/d/01OvmiZk) |
+| DSA Keycaps gradient | 1 | $6.40 | [Curiosity Caps](https://curiositycaps.in/products/21-keys-numpad-thick-pbt-cherry-pbt-keycaps) |
+| Cherry MX Keys | 21 | $6.30 | [StacksKB](https://stackskb.com/store/click-inc-of-linear-switch-pack-of-10/) |
+| Stainless steel screws | 4 | $2.00 (Self-funded) | [StacksKB](https://stackskb.com/store/m2-screw-8mm-stainless-steel/) |
+| 2u Stabilizers | 3 | $3.45 | [StacksKB](https://stackskb.com/store/genuine-cherry-mx-plate-mount-stabilizers-2u/) |
+| Shipping | 1 | $2.00 | [StacksKB](https://stackskb.com) |
+| **Total** | — | **$68.91** | — |
+| **Total funding required** | — | **$64.91** | — |
 ## Total Pricing
 The total price comes out to be 6043 INR ($63) [ SHIPPING INCLUDED ]
 
