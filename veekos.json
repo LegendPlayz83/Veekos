@@ -1,0 +1,57 @@
+{
+    "manufacturer": "YourName",
+    "keyboard_name": "Veekos",
+    "maintainer": "YourName",
+    "bootloader": "uf2boot",
+    "diode_direction": "ROW2COL",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "rows": ["D0", "D1", "D2", "D3"],
+        "cols": ["D4", "D5", "D6", "D7", "D9", "D8"]
+    },
+    "processor": "REPLACE_ME_SEE_NOTES",
+    "board": "REPLACE_ME_SEE_NOTES",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0021",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_veekos_21": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0,   "y": 0, "label": "SW1"  },
+                { "matrix": [0, 1], "x": 1,   "y": 0, "label": "SW5"  },
+                { "matrix": [0, 2], "x": 2,   "y": 0, "label": "SW9"  },
+                { "matrix": [0, 3], "x": 3,   "y": 0, "label": "SW12" },
+                { "matrix": [0, 4], "x": 4,   "y": 0, "label": "SW16" },
+                { "matrix": [0, 5], "x": 5,   "y": 0, "label": "SW19" },
+
+                { "matrix": [1, 0], "x": 0,   "y": 1, "label": "SW2"  },
+                { "matrix": [1, 1], "x": 1,   "y": 1, "label": "SW6"  },
+                { "matrix": [1, 2], "x": 2,   "y": 1, "label": "SW10" },
+                { "matrix": [1, 3], "x": 3,   "y": 1, "label": "SW13" },
+                { "matrix": [1, 4], "x": 4,   "y": 1, "label": "SW17" },
+                { "matrix": [1, 5], "x": 5,   "y": 1, "label": "SW20" },
+
+                { "matrix": [2, 0], "x": 0,   "y": 2, "label": "SW3"  },
+                { "matrix": [2, 1], "x": 1,   "y": 2, "label": "SW7"  },
+                { "matrix": [2, 2], "x": 2,   "y": 2, "label": "SW11" },
+                { "matrix": [2, 3], "x": 3,   "y": 2, "label": "SW14" },
+                { "matrix": [2, 4], "x": 4,   "y": 2, "label": "SW18" },
+                { "matrix": [2, 5], "x": 5,   "y": 2, "label": "SW21" },
+
+                { "matrix": [3, 0], "x": 0,   "y": 3, "label": "SW4"  },
+                { "matrix": [3, 1], "x": 1,   "y": 3, "label": "SW8"  },
+                { "matrix": [3, 3], "x": 3,   "y": 3, "label": "SW15" }
+            ]
+        }
+    }
+}
