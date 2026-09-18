@@ -14,11 +14,7 @@
 // row1, row2, row3. A 2u/wide keycap still corresponds to a single switch
 // here -- only the *cap* is larger, not the matrix footprint.
 //
-// !!! PLACEHOLDER LEGEND !!!
-// I do not have your actual keycap legends (numpad? nav cluster? macros?).
-// Replace the keycodes below (SW1..SW21 comments show which physical switch
-// each one is) with whatever your 21 keycaps actually say. Everything else
-// (matrix wiring, order) is correct per your schematic.
+
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT_veekos_21(
